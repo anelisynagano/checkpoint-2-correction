@@ -1,0 +1,14 @@
+.movieCard {
+    width: 200px;
+    border: 1px solid gray;
+    margin: 30px;
+}
+
+.movieCard img {
+    width: 100%;
+}
+
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+}
